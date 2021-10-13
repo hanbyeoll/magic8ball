@@ -1,0 +1,8 @@
+# Site Settings
+locale                   : "en-US"
+title                    : "Magic 8 Ball"
+title_separator          : "-"
+subtitle                 : 
+name                     : "Han"
+description              : "javascript practice"
+url                      : "https://hanbyeoll.github.io/magic8ball/"
